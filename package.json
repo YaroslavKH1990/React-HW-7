@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vyazan41k.github.io/goit-react-hw-08-phonebook",
+  "homepage": "https://YaroslavKH1990.github.io/React-HW-7",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
